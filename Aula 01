@@ -2,6 +2,15 @@ Banco de Dados - Aula 1
 
 Definições iniciais
 
-1) Computador: entidade que processa dados, mas não informação. 
+1) Dados: compõe uma informação, e sozinhos não possuem significado relevante.
 
-2) Humano: entidade que 
+2) Informação: é a composição de diferentes dados, de maneira que ganhem um significado relvente.
+
+3) Computador: entidade que processa dados, mas não informação. 
+
+4) Humano: entidade que elabora informação através da associação de dados.
+
+5) Banco de Dados: é um agrupamento de dados inter-relacionados representando informações de um domínio específico ligado à diversos programas para acesso e modificação destes
+dados.
+
+Definições de Bancos de Dados
