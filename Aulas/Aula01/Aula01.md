@@ -26,3 +26,4 @@ c. segurança
 d. concorrência
  
 e. independência
+
