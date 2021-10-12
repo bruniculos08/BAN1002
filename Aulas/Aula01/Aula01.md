@@ -32,5 +32,8 @@
 
 **Esquema SGBD**
 <p align="center">
-  <img class="gatsby-resp-image-image" src="https://siigeaf.files.wordpress.com/2012/10/sggbd.png" width="370" title="Selection Sort">
+  <img class="gatsby-resp-image-image" src="https://slideplayer.com.br/slide/364019/2/images/18/SGBD+em+Detalhe.jpg" width="370" title="Selection Sort">
+  <img class="gatsby-resp-image-image" src="https://www.estudegratis.com.br/images/questoes/550001740f8fc8b15349.gif" width="400" title="Selection Sort">
 </p>
+</p>
+
