@@ -26,3 +26,11 @@
  
   - **independência:** engloba a transparência da organização de dados e cria os níveis de indepêndencia entre os dados, existinto então a independência física (transparência de organização física dos dados como distribuição, agrupamento, organização dos arquivos e indexação) e indepêndencia lógica (transparência lógica do BD como as visões do mesmo ou seja seus esquemas externos).
 
+<p align="center">
+  <img class="gatsby-resp-image-image" src="https://lh4.googleusercontent.com/proxy/t3a_YTOiAvZLFL5-zEPY6s4orNcZuXv8S9KgsmfRWR4xpFoW5NFiKLCgDpRGgz6Na6INQ53BPw8lk57S8uGzAFmmrzC9v56ym9RLwN4kb0GIkqxLT7OUwUGrZoFJbpW6dg=w1200-h630-p-k-no-nu" width="370" title="Selection Sort">
+</p>
+
+**Esquema SGBD**
+<p align="center">
+  <img class="gatsby-resp-image-image" src="https://siigeaf.files.wordpress.com/2012/10/sggbd.png" width="370" title="Selection Sort">
+</p>
