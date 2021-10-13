@@ -39,5 +39,21 @@
 
 **Legenda:**
 
+- o cilindro BD é um repositório de arquivos de dados operacionais e arquivos de índices.
+- o DD (dicionário de dados) possui as especificações do esquema, retrições de integridade, autorizações de acesso, visões, localizações de arquivos do BD, configurações 
+e estimativas.
+- o log backup é um repositório de cópias do BD e do histórico de transações.
+- o DBA ou super usuário define o projeto do BD, o esquema de dados, os índices, restrições de integridade, visões, autorizações, poder de recuperação e monitoramento.
+- processador run time ou módulo central possui controle de acesso físico e as responsabilidades de gerenciar arquivos e buffers e notificar falhas ao gerenciador de transações.
+- a aplicação é o que dá acesso ao BD por meio de comandos DML pré-compilados em um código de uma linguagem suportada pelo SGBD.
+- o usuário ad hoc têm acesso direto ao SGBD e pode executar operações DML sem uso de aplicação.
 
+**Vantagem de se utilizar SGBD:**
+
+- independência da aplicação em relação aos dados.
+- controle de acesso.
+- suporte de visões (dados apresentados de maneira diferente).
+- controle de redundância.
+- "simultâneidade" (é formada uma fila) de dados e transações.
+- imposição de restrições de integridade (não há repetição e há integridade de referência ou seja toda transação ocorre apenas se houver uma chave primária e chave estrangeira iguais)
 
