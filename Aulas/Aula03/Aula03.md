@@ -16,7 +16,7 @@
 
 - Relação: formada por um cabeçalho (número fixo de atributos) e um corpo (número variável de tuplas).
 
-- Agregação: quando em uma relação existem outras relações. 
+- Agregação: quando em uma relação existem outras relações e então é necessária uma abstração para tratar os relacionamentos como entidades de nível superior. 
 
 **Figuras:**
 
