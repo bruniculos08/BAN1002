@@ -55,5 +55,5 @@ e estimativas.
 - suporte de visões (dados apresentados de maneira diferente).
 - controle de redundância.
 - "simultâneidade" (é formada uma fila) de dados e transações.
-- imposição de restrições de integridade (não há repetição e há integridade de referência ou seja toda transação ocorre apenas se houver uma chave primária e uma estrangeira iguais)
+- imposição de restrições de integridade (não há repetição e há integridade de referência ou seja toda transação ocorre apenas se houver uma chave primária e chave estrangeira iguais)
 
