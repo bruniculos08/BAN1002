@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T18:02:32.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="GrsWLmMRFTNCqjCLOIzW" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T18:02:48.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="TN13vXLEIc0y1MMwTxSx" version="15.5.6" type="github">
   <diagram id="OfaU-4QBQ7z74oPHC75n" name="Page-1">
     <mxGraphModel dx="1240" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -152,7 +152,7 @@
         <mxCell id="XUh88vk4pK_r7VHz1ewa-41" value="Cor" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="370" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XUh88vk4pK_r7VHz1ewa-43" value="Endereço" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="XUh88vk4pK_r7VHz1ewa-43" value="Dados" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XUh88vk4pK_r7VHz1ewa-46" value="Lote" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
