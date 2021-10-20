@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T17:57:21.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="-MQFJ7jzB9nz1HeMv6Nh" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T17:58:46.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="YewTP_j1alZgTu8IshNg" version="15.5.6" type="github">
   <diagram id="OfaU-4QBQ7z74oPHC75n" name="Page-1">
     <mxGraphModel dx="1240" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
         <mxCell id="XUh88vk4pK_r7VHz1ewa-34" value="Raça" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="150" y="50" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XUh88vk4pK_r7VHz1ewa-37" value="Número" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="XUh88vk4pK_r7VHz1ewa-37" value="&lt;u&gt;Número&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XUh88vk4pK_r7VHz1ewa-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XUh88vk4pK_r7VHz1ewa-39" target="XUh88vk4pK_r7VHz1ewa-2">
@@ -154,7 +154,7 @@
         <mxCell id="XUh88vk4pK_r7VHz1ewa-46" value="Lote" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="585" y="460" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XUh88vk4pK_r7VHz1ewa-48" value="Número" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="XUh88vk4pK_r7VHz1ewa-48" value="&lt;u&gt;Número&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="550" y="560" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XUh88vk4pK_r7VHz1ewa-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XUh88vk4pK_r7VHz1ewa-50" target="XUh88vk4pK_r7VHz1ewa-7">
